@@ -1,0 +1,3 @@
+git update-ref -d HEAD  ---> moves all files from local repo to staged area
+
+git rm --cached *  ---> moves all files from staged area to unstaged area
